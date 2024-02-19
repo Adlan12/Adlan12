@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning front-end web development 
 - 💞️ I’m looking to collaborate and learn more about web development 
-- 📫 You can reach me on https://mobile.twitter.com/AToheeb002
+- 📫 You can reach me on https://mobile.twitter.com/adlant12
 
 <!---
 Adlan12/Adlan12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
